@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me:
-- Email: taira.skt@gmail.com
-- - X: @flatfar_fuji
+  - Email: taira.skt@gmail.com
+  - X: @flatfar_fuji
 
